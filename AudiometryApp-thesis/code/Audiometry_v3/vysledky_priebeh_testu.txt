@@ -1,0 +1,175 @@
+_______________________________________
+MENO: h
+PRIEZVISKO: h
+VEK: 22
+ZACIATOK TESTU - DEN: 13-06-2024
+ZACIATOK TESTU - CAS: 23:32:25
+VYSLEDKY:
+Zvuk: Jedenie(sounds/stredne/Sloppy_Eating 1_rms 1.wav), Dlzka: 4.906958, Cas zaciatku prehratia: 23:32:25, Hlasitost: 1.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:32:31, Hlasitost: 1.0
+Zvuk: Zvuk cikad(sounds/vysoke/Crickets_chirping. 8-8_rms 1.wav), Dlzka: 8.926063, Cas zaciatku prehratia: 23:32:35, Hlasitost: 1.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:32:44, Hlasitost: 1.0
+Zvuk: Spievanie vtaka(sounds/vysoke/bird-whistling-single-robin__7_3_kHz_rms 1.wav), Dlzka: 6.424603, Cas zaciatku prehratia: 23:32:50, Hlasitost: 1.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:32:57, Hlasitost: 1.0
+Zvuk: Vietor(sounds/nizke/wind2__35-45Hz_rms 1.wav), Dlzka: 6.22725, Cas zaciatku prehratia: 23:33:02, Hlasitost: 1.0
+Zvuk: Pauza (2sekundy)(pauses/pause2.wav), Dlzka: 2.0, Cas zaciatku prehratia: 23:33:09, Hlasitost: 1.0
+Zvuk: Hrom(sounds/nizke/Thunder_Rumble  80Hz_rms 1.wav), Dlzka: 6.3235626, Cas zaciatku prehratia: 23:33:12, Hlasitost: 1.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:33:19, Hlasitost: 1.0
+Zvuk: Slon(sounds/stredne/elephant_550Hz_rms 1.wav), Dlzka: 5.6158957, Cas zaciatku prehratia: 23:33:24, Hlasitost: 1.0
+Zvuk: Pauza (2sekundy)(pauses/pause2.wav), Dlzka: 2.0, Cas zaciatku prehratia: 23:33:31, Hlasitost: 1.0
+Zvuk: Pokladnica(sounds/stredne/Cash_Register_2_rms 1.wav), Dlzka: 5.6458125, Cas zaciatku prehratia: 23:33:33, Hlasitost: 1.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:33:40, Hlasitost: 1.0
+Zvuk: Zutie zuvacky(sounds/vysoke/Chewing gum 5kHz-6,5 kHz_rms 1.wav), Dlzka: 9.184, Cas zaciatku prehratia: 23:33:44, Hlasitost: 1.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:33:54, Hlasitost: 1.0
+Zvuk: Vybracie telefonu(sounds/nizke/phone_vibration_250_Hz_rms 1.wav), Dlzka: 3.6120417, Cas zaciatku prehratia: 23:33:55, Hlasitost: 1.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:34:00, Hlasitost: 3.0
+Zvuk: Slon(sounds/stredne/elephant_550Hz_rms 1.wav), Dlzka: 5.6158957, Cas zaciatku prehratia: 23:34:05, Hlasitost: 3.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:34:12, Hlasitost: 3.0
+Zvuk: Vietor(sounds/nizke/wind2__35-45Hz_rms 1.wav), Dlzka: 6.22725, Cas zaciatku prehratia: 23:34:16, Hlasitost: 3.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:34:23, Hlasitost: 3.0
+Zvuk: Zvuk cikad(sounds/vysoke/Crickets_chirping. 8-8_rms 1.wav), Dlzka: 8.926063, Cas zaciatku prehratia: 23:34:25, Hlasitost: 3.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:34:35, Hlasitost: 3.0
+Zvuk: Vybracie telefonu(sounds/nizke/phone_vibration_250_Hz_rms 1.wav), Dlzka: 3.6120417, Cas zaciatku prehratia: 23:34:40, Hlasitost: 3.0
+Zvuk: Pauza (2sekundy)(pauses/pause2.wav), Dlzka: 2.0, Cas zaciatku prehratia: 23:34:45, Hlasitost: 3.0
+Zvuk: Jedenie(sounds/stredne/Sloppy_Eating 1_rms 1.wav), Dlzka: 4.906958, Cas zaciatku prehratia: 23:34:47, Hlasitost: 3.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:34:53, Hlasitost: 3.0
+Zvuk: Pokladnica(sounds/stredne/Cash_Register_2_rms 1.wav), Dlzka: 5.6458125, Cas zaciatku prehratia: 23:34:55, Hlasitost: 3.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:35:01, Hlasitost: 3.0
+Zvuk: Zutie zuvacky(sounds/vysoke/Chewing gum 5kHz-6,5 kHz_rms 1.wav), Dlzka: 9.184, Cas zaciatku prehratia: 23:35:07, Hlasitost: 3.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:35:17, Hlasitost: 3.0
+Zvuk: Spievanie vtaka(sounds/vysoke/bird-whistling-single-robin__7_3_kHz_rms 1.wav), Dlzka: 6.424603, Cas zaciatku prehratia: 23:35:18, Hlasitost: 3.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:35:26, Hlasitost: 3.0
+Zvuk: Hrom(sounds/nizke/Thunder_Rumble  80Hz_rms 1.wav), Dlzka: 6.3235626, Cas zaciatku prehratia: 23:35:27, Hlasitost: 3.0
+______________________________________________________________________________
+MENO: w
+PRIEZVISKO: e
+VEK: 2
+ZACIATOK TESTU - DEN: 13-06-2024
+ZACIATOK TESTU - CAS: 23:48:22
+VYSLEDKY:
+Zvuk: Pokladnica(sounds/stredne/Cash_Register_2_rms 1.wav), Dlzka: 5.6458125, Cas zaciatku prehratia: 23:48:22, Hlasitost: 1.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:48:28, Hlasitost: 1.0
+Zvuk: Jedenie(sounds/stredne/Sloppy_Eating 1_rms 1.wav), Dlzka: 4.906958, Cas zaciatku prehratia: 23:48:31, Hlasitost: 1.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:48:37, Hlasitost: 1.0
+Zvuk: Vietor(sounds/nizke/wind2__35-45Hz_rms 1.wav), Dlzka: 6.22725, Cas zaciatku prehratia: 23:48:41, Hlasitost: 1.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:48:48, Hlasitost: 1.0
+Zvuk: Spievanie vtaka(sounds/vysoke/bird-whistling-single-robin__7_3_kHz_rms 1.wav), Dlzka: 6.424603, Cas zaciatku prehratia: 23:48:49, Hlasitost: 1.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:48:56, Hlasitost: 1.0
+Zvuk: Zutie zuvacky(sounds/vysoke/Chewing gum 5kHz-6,5 kHz_rms 1.wav), Dlzka: 9.184, Cas zaciatku prehratia: 23:49:02, Hlasitost: 1.0
+  Klik: 23:49:10
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:49:12, Hlasitost: 1.0
+______________________________________________________________________________
+MENO: r
+PRIEZVISKO: r
+VEK: 3
+ZACIATOK TESTU - DEN: 13-06-2024
+ZACIATOK TESTU - CAS: 23:50:07
+VYSLEDKY:
+Zvuk: Hrom(sounds/nizke/Thunder_Rumble  80Hz_rms 1.wav), Dlzka: 6.3235626, Cas zaciatku prehratia: 23:50:08, Hlasitost: 1.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:50:15, Hlasitost: 1.0
+Zvuk: Slon(sounds/stredne/elephant_550Hz_rms 1.wav), Dlzka: 5.6158957, Cas zaciatku prehratia: 23:50:16, Hlasitost: 1.0
+Zvuk: Pauza (2sekundy)(pauses/pause2.wav), Dlzka: 2.0, Cas zaciatku prehratia: 23:50:23, Hlasitost: 1.0
+Zvuk: Jedenie(sounds/stredne/Sloppy_Eating 1_rms 1.wav), Dlzka: 4.906958, Cas zaciatku prehratia: 23:50:25, Hlasitost: 1.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:50:31, Hlasitost: 1.0
+Zvuk: Zvuk cikad(sounds/vysoke/Crickets_chirping. 8-8_rms 1.wav), Dlzka: 8.926063, Cas zaciatku prehratia: 23:50:35, Hlasitost: 1.0
+Zvuk: Pauza (2sekundy)(pauses/pause2.wav), Dlzka: 2.0, Cas zaciatku prehratia: 23:50:44, Hlasitost: 1.0
+Zvuk: Pokladnica(sounds/stredne/Cash_Register_2_rms 1.wav), Dlzka: 5.6458125, Cas zaciatku prehratia: 23:50:47, Hlasitost: 1.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:50:53, Hlasitost: 1.0
+Zvuk: Vietor(sounds/nizke/wind2__35-45Hz_rms 1.wav), Dlzka: 6.22725, Cas zaciatku prehratia: 23:50:58, Hlasitost: 1.0
+Zvuk: Pauza (2sekundy)(pauses/pause2.wav), Dlzka: 2.0, Cas zaciatku prehratia: 23:51:05, Hlasitost: 1.0
+Zvuk: Zutie zuvacky(sounds/vysoke/Chewing gum 5kHz-6,5 kHz_rms 1.wav), Dlzka: 9.184, Cas zaciatku prehratia: 23:51:08, Hlasitost: 1.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:51:18, Hlasitost: 1.0
+Zvuk: Vybracie telefonu(sounds/nizke/phone_vibration_250_Hz_rms 1.wav), Dlzka: 3.6120417, Cas zaciatku prehratia: 23:51:19, Hlasitost: 1.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:51:24, Hlasitost: 1.0
+Zvuk: Spievanie vtaka(sounds/vysoke/bird-whistling-single-robin__7_3_kHz_rms 1.wav), Dlzka: 6.424603, Cas zaciatku prehratia: 23:51:25, Hlasitost: 1.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:51:33, Hlasitost: 3.0
+Zvuk: Vybracie telefonu(sounds/nizke/phone_vibration_250_Hz_rms 1.wav), Dlzka: 3.6120417, Cas zaciatku prehratia: 23:51:38, Hlasitost: 3.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:51:43, Hlasitost: 3.0
+Zvuk: Spievanie vtaka(sounds/vysoke/bird-whistling-single-robin__7_3_kHz_rms 1.wav), Dlzka: 6.424603, Cas zaciatku prehratia: 23:51:48, Hlasitost: 3.0
+Zvuk: Pauza (2sekundy)(pauses/pause2.wav), Dlzka: 2.0, Cas zaciatku prehratia: 23:51:55, Hlasitost: 3.0
+Zvuk: Hrom(sounds/nizke/Thunder_Rumble  80Hz_rms 1.wav), Dlzka: 6.3235626, Cas zaciatku prehratia: 23:51:58, Hlasitost: 3.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:52:05, Hlasitost: 3.0
+Zvuk: Jedenie(sounds/stredne/Sloppy_Eating 1_rms 1.wav), Dlzka: 4.906958, Cas zaciatku prehratia: 23:52:11, Hlasitost: 3.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:52:16, Hlasitost: 3.0
+Zvuk: Zutie zuvacky(sounds/vysoke/Chewing gum 5kHz-6,5 kHz_rms 1.wav), Dlzka: 9.184, Cas zaciatku prehratia: 23:52:21, Hlasitost: 3.0
+Zvuk: Pauza (2sekundy)(pauses/pause2.wav), Dlzka: 2.0, Cas zaciatku prehratia: 23:52:31, Hlasitost: 3.0
+Zvuk: Vietor(sounds/nizke/wind2__35-45Hz_rms 1.wav), Dlzka: 6.22725, Cas zaciatku prehratia: 23:52:34, Hlasitost: 3.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:52:41, Hlasitost: 3.0
+Zvuk: Zvuk cikad(sounds/vysoke/Crickets_chirping. 8-8_rms 1.wav), Dlzka: 8.926063, Cas zaciatku prehratia: 23:52:46, Hlasitost: 3.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:52:56, Hlasitost: 3.0
+Zvuk: Slon(sounds/stredne/elephant_550Hz_rms 1.wav), Dlzka: 5.6158957, Cas zaciatku prehratia: 23:53:02, Hlasitost: 3.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:53:08, Hlasitost: 3.0
+Zvuk: Pokladnica(sounds/stredne/Cash_Register_2_rms 1.wav), Dlzka: 5.6458125, Cas zaciatku prehratia: 23:53:13, Hlasitost: 3.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:53:19, Hlasitost: 5.0
+Zvuk: Vietor(sounds/nizke/wind2__35-45Hz_rms 1.wav), Dlzka: 6.22725, Cas zaciatku prehratia: 23:53:24, Hlasitost: 5.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:53:31, Hlasitost: 5.0
+Zvuk: Jedenie(sounds/stredne/Sloppy_Eating 1_rms 1.wav), Dlzka: 4.906958, Cas zaciatku prehratia: 23:53:36, Hlasitost: 5.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:53:42, Hlasitost: 5.0
+Zvuk: Vybracie telefonu(sounds/nizke/phone_vibration_250_Hz_rms 1.wav), Dlzka: 3.6120417, Cas zaciatku prehratia: 23:53:48, Hlasitost: 5.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:53:52, Hlasitost: 5.0
+Zvuk: Hrom(sounds/nizke/Thunder_Rumble  80Hz_rms 1.wav), Dlzka: 6.3235626, Cas zaciatku prehratia: 23:53:58, Hlasitost: 5.0
+Zvuk: Pauza (2sekundy)(pauses/pause2.wav), Dlzka: 2.0, Cas zaciatku prehratia: 23:54:05, Hlasitost: 5.0
+Zvuk: Pokladnica(sounds/stredne/Cash_Register_2_rms 1.wav), Dlzka: 5.6458125, Cas zaciatku prehratia: 23:54:07, Hlasitost: 5.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:54:14, Hlasitost: 5.0
+Zvuk: Spievanie vtaka(sounds/vysoke/bird-whistling-single-robin__7_3_kHz_rms 1.wav), Dlzka: 6.424603, Cas zaciatku prehratia: 23:54:19, Hlasitost: 5.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:54:26, Hlasitost: 5.0
+Zvuk: Zvuk cikad(sounds/vysoke/Crickets_chirping. 8-8_rms 1.wav), Dlzka: 8.926063, Cas zaciatku prehratia: 23:54:29, Hlasitost: 5.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:54:39, Hlasitost: 5.0
+Zvuk: Slon(sounds/stredne/elephant_550Hz_rms 1.wav), Dlzka: 5.6158957, Cas zaciatku prehratia: 23:54:45, Hlasitost: 5.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:54:51, Hlasitost: 5.0
+Zvuk: Zutie zuvacky(sounds/vysoke/Chewing gum 5kHz-6,5 kHz_rms 1.wav), Dlzka: 9.184, Cas zaciatku prehratia: 23:54:55, Hlasitost: 5.0
+Zvuk: Pauza (2sekundy)(pauses/pause2.wav), Dlzka: 2.0, Cas zaciatku prehratia: 23:55:05, Hlasitost: 10.0
+Zvuk: Jedenie(sounds/stredne/Sloppy_Eating 1_rms 1.wav), Dlzka: 4.906958, Cas zaciatku prehratia: 23:55:07, Hlasitost: 10.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:55:13, Hlasitost: 10.0
+Zvuk: Hrom(sounds/nizke/Thunder_Rumble  80Hz_rms 1.wav), Dlzka: 6.3235626, Cas zaciatku prehratia: 23:55:18, Hlasitost: 10.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:55:25, Hlasitost: 10.0
+Zvuk: Vietor(sounds/nizke/wind2__35-45Hz_rms 1.wav), Dlzka: 6.22725, Cas zaciatku prehratia: 23:55:28, Hlasitost: 10.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:55:35, Hlasitost: 10.0
+Zvuk: Zutie zuvacky(sounds/vysoke/Chewing gum 5kHz-6,5 kHz_rms 1.wav), Dlzka: 9.184, Cas zaciatku prehratia: 23:55:41, Hlasitost: 10.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:55:51, Hlasitost: 10.0
+Zvuk: Pokladnica(sounds/stredne/Cash_Register_2_rms 1.wav), Dlzka: 5.6458125, Cas zaciatku prehratia: 23:55:56, Hlasitost: 10.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:56:02, Hlasitost: 10.0
+Zvuk: Slon(sounds/stredne/elephant_550Hz_rms 1.wav), Dlzka: 5.6158957, Cas zaciatku prehratia: 23:56:07, Hlasitost: 10.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:56:13, Hlasitost: 10.0
+Zvuk: Vybracie telefonu(sounds/nizke/phone_vibration_250_Hz_rms 1.wav), Dlzka: 3.6120417, Cas zaciatku prehratia: 23:56:19, Hlasitost: 10.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:56:23, Hlasitost: 10.0
+Zvuk: Spievanie vtaka(sounds/vysoke/bird-whistling-single-robin__7_3_kHz_rms 1.wav), Dlzka: 6.424603, Cas zaciatku prehratia: 23:56:25, Hlasitost: 10.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:56:32, Hlasitost: 10.0
+Zvuk: Zvuk cikad(sounds/vysoke/Crickets_chirping. 8-8_rms 1.wav), Dlzka: 8.926063, Cas zaciatku prehratia: 23:56:36, Hlasitost: 10.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:56:46, Hlasitost: 15.0
+Zvuk: Spievanie vtaka(sounds/vysoke/bird-whistling-single-robin__7_3_kHz_rms 1.wav), Dlzka: 6.424603, Cas zaciatku prehratia: 23:56:49, Hlasitost: 15.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:56:57, Hlasitost: 15.0
+Zvuk: Zvuk cikad(sounds/vysoke/Crickets_chirping. 8-8_rms 1.wav), Dlzka: 8.926063, Cas zaciatku prehratia: 23:57:00, Hlasitost: 15.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:57:10, Hlasitost: 15.0
+Zvuk: Hrom(sounds/nizke/Thunder_Rumble  80Hz_rms 1.wav), Dlzka: 6.3235626, Cas zaciatku prehratia: 23:57:14, Hlasitost: 15.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:57:21, Hlasitost: 15.0
+Zvuk: Jedenie(sounds/stredne/Sloppy_Eating 1_rms 1.wav), Dlzka: 4.906958, Cas zaciatku prehratia: 23:57:26, Hlasitost: 15.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:57:32, Hlasitost: 15.0
+Zvuk: Vybracie telefonu(sounds/nizke/phone_vibration_250_Hz_rms 1.wav), Dlzka: 3.6120417, Cas zaciatku prehratia: 23:57:36, Hlasitost: 15.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:57:40, Hlasitost: 15.0
+Zvuk: Pokladnica(sounds/stredne/Cash_Register_2_rms 1.wav), Dlzka: 5.6458125, Cas zaciatku prehratia: 23:57:46, Hlasitost: 15.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:57:52, Hlasitost: 15.0
+Zvuk: Slon(sounds/stredne/elephant_550Hz_rms 1.wav), Dlzka: 5.6158957, Cas zaciatku prehratia: 23:57:54, Hlasitost: 15.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:58:00, Hlasitost: 15.0
+Zvuk: Vietor(sounds/nizke/wind2__35-45Hz_rms 1.wav), Dlzka: 6.22725, Cas zaciatku prehratia: 23:58:05, Hlasitost: 15.0
+Zvuk: Pauza (1sekunda)(pauses/pause1.wav), Dlzka: 1.0, Cas zaciatku prehratia: 23:58:12, Hlasitost: 15.0
+Zvuk: Zutie zuvacky(sounds/vysoke/Chewing gum 5kHz-6,5 kHz_rms 1.wav), Dlzka: 9.184, Cas zaciatku prehratia: 23:58:13, Hlasitost: 15.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:58:23, Hlasitost: 20.0
+Zvuk: Vietor(sounds/nizke/wind2__35-45Hz_rms 1.wav), Dlzka: 6.22725, Cas zaciatku prehratia: 23:58:27, Hlasitost: 20.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:58:34, Hlasitost: 20.0
+Zvuk: Spievanie vtaka(sounds/vysoke/bird-whistling-single-robin__7_3_kHz_rms 1.wav), Dlzka: 6.424603, Cas zaciatku prehratia: 23:58:39, Hlasitost: 20.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:58:46, Hlasitost: 20.0
+Zvuk: Zutie zuvacky(sounds/vysoke/Chewing gum 5kHz-6,5 kHz_rms 1.wav), Dlzka: 9.184, Cas zaciatku prehratia: 23:58:52, Hlasitost: 20.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:59:01, Hlasitost: 20.0
+Zvuk: Hrom(sounds/nizke/Thunder_Rumble  80Hz_rms 1.wav), Dlzka: 6.3235626, Cas zaciatku prehratia: 23:59:05, Hlasitost: 20.0
+Zvuk: Pauza (3sekundy)(pauses/pause3.wav), Dlzka: 3.0, Cas zaciatku prehratia: 23:59:12, Hlasitost: 20.0
+Zvuk: Slon(sounds/stredne/elephant_550Hz_rms 1.wav), Dlzka: 5.6158957, Cas zaciatku prehratia: 23:59:16, Hlasitost: 20.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:59:22, Hlasitost: 20.0
+Zvuk: Zvuk cikad(sounds/vysoke/Crickets_chirping. 8-8_rms 1.wav), Dlzka: 8.926063, Cas zaciatku prehratia: 23:59:27, Hlasitost: 20.0
+Zvuk: Pauza (5sekund)(pauses/pause5.wav), Dlzka: 5.0, Cas zaciatku prehratia: 23:59:36, Hlasitost: 20.0
+Zvuk: Pokladnica(sounds/stredne/Cash_Register_2_rms 1.wav), Dlzka: 5.6458125, Cas zaciatku prehratia: 23:59:42, Hlasitost: 20.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:59:48, Hlasitost: 20.0
+Zvuk: Jedenie(sounds/stredne/Sloppy_Eating 1_rms 1.wav), Dlzka: 4.906958, Cas zaciatku prehratia: 23:59:53, Hlasitost: 20.0
+Zvuk: Pauza (4sekundy)(pauses/pause4.wav), Dlzka: 4.0, Cas zaciatku prehratia: 23:59:59, Hlasitost: 20.0
+Zvuk: Vybracie telefonu(sounds/nizke/phone_vibration_250_Hz_rms 1.wav), Dlzka: 3.6120417, Cas zaciatku prehratia: 00:00:03, Hlasitost: 20.0
+_______________________________________

@@ -1,0 +1,153 @@
+MENO;PRIEZVISKO;VEK;ZACIATOK TESTOVANIA - DEN;ZACIATOK TESTOVANIA - CAS;ZACIATOK PREHRATIA NAHRAVKY;CAS PRVEHO ROZPOZNANIA;NAHRAVKA;SUBOR;POSLEDNA HLASITOST PREHRAVANIA;REAKCIA;POCET REAKCII;TYP
+h;h;22;13-06-2024;23:32:25;23:32:25;-;Jedenie;Sloppy_Eating 1_rms 1.wav;1.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:32:31;-;Pauza (3sekundy);pause3.wav;1.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:32:35;-;Zvuk cikad;Crickets_chirping. 8-8_rms 1.wav;1.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:32:44;-;Pauza (5sekund);pause5.wav;1.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:32:50;-;Spievanie vtaka;bird-whistling-single-robin__7_3_kHz_rms 1.wav;1.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:32:57;-;Pauza (4sekundy);pause4.wav;1.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:33:02;-;Vietor;wind2__35-45Hz_rms 1.wav;1.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:33:09;-;Pauza (2sekundy);pause2.wav;1.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:33:12;-;Hrom;Thunder_Rumble  80Hz_rms 1.wav;1.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:33:19;-;Pauza (5sekund);pause5.wav;1.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:33:24;-;Slon;elephant_550Hz_rms 1.wav;1.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:33:31;-;Pauza (2sekundy);pause2.wav;1.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:33:33;-;Pokladnica;Cash_Register_2_rms 1.wav;1.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:33:40;-;Pauza (3sekundy);pause3.wav;1.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:33:44;-;Zutie zuvacky;Chewing gum 5kHz-6,5 kHz_rms 1.wav;1.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:33:54;-;Pauza (1sekunda);pause1.wav;1.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:33:55;-;Vybracie telefonu;phone_vibration_250_Hz_rms 1.wav;1.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:34:00;-;Pauza (5sekund);pause5.wav;3.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:34:05;-;Slon;elephant_550Hz_rms 1.wav;3.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:34:12;-;Pauza (4sekundy);pause4.wav;3.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:34:16;-;Vietor;wind2__35-45Hz_rms 1.wav;3.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:34:23;-;Pauza (1sekunda);pause1.wav;3.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:34:25;-;Zvuk cikad;Crickets_chirping. 8-8_rms 1.wav;3.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:34:35;-;Pauza (5sekund);pause5.wav;3.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:34:40;-;Vybracie telefonu;phone_vibration_250_Hz_rms 1.wav;3.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:34:45;-;Pauza (2sekundy);pause2.wav;3.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:34:47;-;Jedenie;Sloppy_Eating 1_rms 1.wav;3.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:34:53;-;Pauza (1sekunda);pause1.wav;3.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:34:55;-;Pokladnica;Cash_Register_2_rms 1.wav;3.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:35:01;-;Pauza (5sekund);pause5.wav;3.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:35:07;-;Zutie zuvacky;Chewing gum 5kHz-6,5 kHz_rms 1.wav;3.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:35:17;-;Pauza (1sekunda);pause1.wav;3.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:35:18;-;Spievanie vtaka;bird-whistling-single-robin__7_3_kHz_rms 1.wav;3.0;nie;0;zvuk
+h;h;22;13-06-2024;23:32:25;23:35:26;-;Pauza (1sekunda);pause1.wav;3.0;nie;0;pauza
+h;h;22;13-06-2024;23:32:25;23:35:27;-;Hrom;Thunder_Rumble  80Hz_rms 1.wav;3.0;nie;0;zvuk
+w;e;2;13-06-2024;23:48:22;23:48:22;-;Pokladnica;Cash_Register_2_rms 1.wav;1.0;nie;0;zvuk
+w;e;2;13-06-2024;23:48:22;23:48:28;-;Pauza (3sekundy);pause3.wav;1.0;nie;0;pauza
+w;e;2;13-06-2024;23:48:22;23:48:31;-;Jedenie;Sloppy_Eating 1_rms 1.wav;1.0;nie;0;zvuk
+w;e;2;13-06-2024;23:48:22;23:48:37;-;Pauza (3sekundy);pause3.wav;1.0;nie;0;pauza
+w;e;2;13-06-2024;23:48:22;23:48:41;-;Vietor;wind2__35-45Hz_rms 1.wav;1.0;nie;0;zvuk
+w;e;2;13-06-2024;23:48:22;23:48:48;-;Pauza (1sekunda);pause1.wav;1.0;nie;0;pauza
+w;e;2;13-06-2024;23:48:22;23:48:49;-;Spievanie vtaka;bird-whistling-single-robin__7_3_kHz_rms 1.wav;1.0;nie;0;zvuk
+w;e;2;13-06-2024;23:48:22;23:48:56;-;Pauza (5sekund);pause5.wav;1.0;nie;0;pauza
+w;e;2;13-06-2024;23:48:22;23:49:02;23:49:10;Zutie zuvacky;Chewing gum 5kHz-6,5 kHz_rms 1.wav;1.0;ano;1;zvuk
+w;e;2;13-06-2024;23:48:22;23:49:12;-;Pauza (3sekundy);pause3.wav;1.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:50:08;-;Hrom;Thunder_Rumble  80Hz_rms 1.wav;1.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:50:15;-;Pauza (1sekunda);pause1.wav;1.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:50:16;-;Slon;elephant_550Hz_rms 1.wav;1.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:50:23;-;Pauza (2sekundy);pause2.wav;1.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:50:25;-;Jedenie;Sloppy_Eating 1_rms 1.wav;1.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:50:31;-;Pauza (3sekundy);pause3.wav;1.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:50:35;-;Zvuk cikad;Crickets_chirping. 8-8_rms 1.wav;1.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:50:44;-;Pauza (2sekundy);pause2.wav;1.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:50:47;-;Pokladnica;Cash_Register_2_rms 1.wav;1.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:50:53;-;Pauza (4sekundy);pause4.wav;1.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:50:58;-;Vietor;wind2__35-45Hz_rms 1.wav;1.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:51:05;-;Pauza (2sekundy);pause2.wav;1.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:51:08;-;Zutie zuvacky;Chewing gum 5kHz-6,5 kHz_rms 1.wav;1.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:51:18;-;Pauza (1sekunda);pause1.wav;1.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:51:19;-;Vybracie telefonu;phone_vibration_250_Hz_rms 1.wav;1.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:51:24;-;Pauza (1sekunda);pause1.wav;1.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:51:25;-;Spievanie vtaka;bird-whistling-single-robin__7_3_kHz_rms 1.wav;1.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:51:33;-;Pauza (5sekund);pause5.wav;3.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:51:38;-;Vybracie telefonu;phone_vibration_250_Hz_rms 1.wav;3.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:51:43;-;Pauza (5sekund);pause5.wav;3.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:51:48;-;Spievanie vtaka;bird-whistling-single-robin__7_3_kHz_rms 1.wav;3.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:51:55;-;Pauza (2sekundy);pause2.wav;3.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:51:58;-;Hrom;Thunder_Rumble  80Hz_rms 1.wav;3.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:52:05;-;Pauza (5sekund);pause5.wav;3.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:52:11;-;Jedenie;Sloppy_Eating 1_rms 1.wav;3.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:52:16;-;Pauza (4sekundy);pause4.wav;3.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:52:21;-;Zutie zuvacky;Chewing gum 5kHz-6,5 kHz_rms 1.wav;3.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:52:31;-;Pauza (2sekundy);pause2.wav;3.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:52:34;-;Vietor;wind2__35-45Hz_rms 1.wav;3.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:52:41;-;Pauza (5sekund);pause5.wav;3.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:52:46;-;Zvuk cikad;Crickets_chirping. 8-8_rms 1.wav;3.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:52:56;-;Pauza (5sekund);pause5.wav;3.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:53:02;-;Slon;elephant_550Hz_rms 1.wav;3.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:53:08;-;Pauza (4sekundy);pause4.wav;3.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:53:13;-;Pokladnica;Cash_Register_2_rms 1.wav;3.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:53:19;-;Pauza (4sekundy);pause4.wav;5.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:53:24;-;Vietor;wind2__35-45Hz_rms 1.wav;5.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:53:31;-;Pauza (5sekund);pause5.wav;5.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:53:36;-;Jedenie;Sloppy_Eating 1_rms 1.wav;5.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:53:42;-;Pauza (5sekund);pause5.wav;5.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:53:48;-;Vybracie telefonu;phone_vibration_250_Hz_rms 1.wav;5.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:53:52;-;Pauza (5sekund);pause5.wav;5.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:53:58;-;Hrom;Thunder_Rumble  80Hz_rms 1.wav;5.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:54:05;-;Pauza (2sekundy);pause2.wav;5.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:54:07;-;Pokladnica;Cash_Register_2_rms 1.wav;5.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:54:14;-;Pauza (4sekundy);pause4.wav;5.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:54:19;-;Spievanie vtaka;bird-whistling-single-robin__7_3_kHz_rms 1.wav;5.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:54:26;-;Pauza (3sekundy);pause3.wav;5.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:54:29;-;Zvuk cikad;Crickets_chirping. 8-8_rms 1.wav;5.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:54:39;-;Pauza (5sekund);pause5.wav;5.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:54:45;-;Slon;elephant_550Hz_rms 1.wav;5.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:54:51;-;Pauza (3sekundy);pause3.wav;5.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:54:55;-;Zutie zuvacky;Chewing gum 5kHz-6,5 kHz_rms 1.wav;5.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:55:05;-;Pauza (2sekundy);pause2.wav;10.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:55:07;-;Jedenie;Sloppy_Eating 1_rms 1.wav;10.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:55:13;-;Pauza (4sekundy);pause4.wav;10.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:55:18;-;Hrom;Thunder_Rumble  80Hz_rms 1.wav;10.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:55:25;-;Pauza (3sekundy);pause3.wav;10.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:55:28;-;Vietor;wind2__35-45Hz_rms 1.wav;10.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:55:35;-;Pauza (5sekund);pause5.wav;10.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:55:41;-;Zutie zuvacky;Chewing gum 5kHz-6,5 kHz_rms 1.wav;10.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:55:51;-;Pauza (4sekundy);pause4.wav;10.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:55:56;-;Pokladnica;Cash_Register_2_rms 1.wav;10.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:56:02;-;Pauza (4sekundy);pause4.wav;10.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:56:07;-;Slon;elephant_550Hz_rms 1.wav;10.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:56:13;-;Pauza (5sekund);pause5.wav;10.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:56:19;-;Vybracie telefonu;phone_vibration_250_Hz_rms 1.wav;10.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:56:23;-;Pauza (1sekunda);pause1.wav;10.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:56:25;-;Spievanie vtaka;bird-whistling-single-robin__7_3_kHz_rms 1.wav;10.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:56:32;-;Pauza (3sekundy);pause3.wav;10.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:56:36;-;Zvuk cikad;Crickets_chirping. 8-8_rms 1.wav;10.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:56:46;-;Pauza (3sekundy);pause3.wav;15.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:56:49;-;Spievanie vtaka;bird-whistling-single-robin__7_3_kHz_rms 1.wav;15.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:56:57;-;Pauza (3sekundy);pause3.wav;15.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:57:00;-;Zvuk cikad;Crickets_chirping. 8-8_rms 1.wav;15.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:57:10;-;Pauza (3sekundy);pause3.wav;15.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:57:14;-;Hrom;Thunder_Rumble  80Hz_rms 1.wav;15.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:57:21;-;Pauza (5sekund);pause5.wav;15.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:57:26;-;Jedenie;Sloppy_Eating 1_rms 1.wav;15.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:57:32;-;Pauza (3sekundy);pause3.wav;15.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:57:36;-;Vybracie telefonu;phone_vibration_250_Hz_rms 1.wav;15.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:57:40;-;Pauza (5sekund);pause5.wav;15.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:57:46;-;Pokladnica;Cash_Register_2_rms 1.wav;15.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:57:52;-;Pauza (1sekunda);pause1.wav;15.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:57:54;-;Slon;elephant_550Hz_rms 1.wav;15.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:58:00;-;Pauza (4sekundy);pause4.wav;15.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:58:05;-;Vietor;wind2__35-45Hz_rms 1.wav;15.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:58:12;-;Pauza (1sekunda);pause1.wav;15.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:58:13;-;Zutie zuvacky;Chewing gum 5kHz-6,5 kHz_rms 1.wav;15.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:58:23;-;Pauza (3sekundy);pause3.wav;20.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:58:27;-;Vietor;wind2__35-45Hz_rms 1.wav;20.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:58:34;-;Pauza (4sekundy);pause4.wav;20.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:58:39;-;Spievanie vtaka;bird-whistling-single-robin__7_3_kHz_rms 1.wav;20.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:58:46;-;Pauza (5sekund);pause5.wav;20.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:58:52;-;Zutie zuvacky;Chewing gum 5kHz-6,5 kHz_rms 1.wav;20.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:59:01;-;Pauza (3sekundy);pause3.wav;20.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:59:05;-;Hrom;Thunder_Rumble  80Hz_rms 1.wav;20.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:59:12;-;Pauza (3sekundy);pause3.wav;20.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:59:16;-;Slon;elephant_550Hz_rms 1.wav;20.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:59:22;-;Pauza (4sekundy);pause4.wav;20.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:59:27;-;Zvuk cikad;Crickets_chirping. 8-8_rms 1.wav;20.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:59:36;-;Pauza (5sekund);pause5.wav;20.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:59:42;-;Pokladnica;Cash_Register_2_rms 1.wav;20.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:59:48;-;Pauza (4sekundy);pause4.wav;20.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;23:59:53;-;Jedenie;Sloppy_Eating 1_rms 1.wav;20.0;nie;0;zvuk
+r;r;3;13-06-2024;23:50:07;23:59:59;-;Pauza (4sekundy);pause4.wav;20.0;nie;0;pauza
+r;r;3;13-06-2024;23:50:07;00:00:03;-;Vybracie telefonu;phone_vibration_250_Hz_rms 1.wav;20.0;nie;0;zvuk

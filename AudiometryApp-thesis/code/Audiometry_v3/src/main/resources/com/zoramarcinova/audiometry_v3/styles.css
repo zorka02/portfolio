@@ -1,0 +1,37 @@
+/*
+.vbox-blue {
+    -fx-background-color: #8AD5C8;
+
+}
+
+.button-index {
+
+    -fx-background-color: #FEFDEE;
+    -fx-border-width: 0;
+    -fx-font-family: 'Inter', sans-serif;
+    -fx-font-style: normal;
+    -fx-text-fill: #2EA099;
+    -fx-alignment: center;
+    -fx-padding: 20px 27px;
+
+} */
+
+.button--test {
+    -fx-cursor: hand;
+    -fx-background-color: #2EA099;
+    -fx-text-fill: #FEFDEE;
+    -fx-border-width: 0;
+    -fx-font-weight: 700;
+    -fx-font-size: 40px;
+}
+
+.button--test:hover {
+    -fx-background-color: #27968F;
+    -fx-text-fill: #EDEBD2;
+}
+
+.button--test:pressed {
+    -fx-background-color: #1F847E;
+    -fx-text-fill: #D3D0B1;
+}
+

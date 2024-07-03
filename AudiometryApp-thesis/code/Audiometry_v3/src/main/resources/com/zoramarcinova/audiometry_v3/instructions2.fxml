@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #FEFDEE;" xmlns="http://javafx.com/fxml" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.zoramarcinova.audiometry_v3.Instructions2Controller">
+    <children>
+      <Region prefHeight="50.0" prefWidth="600.0" />
+        <Label style="-fx-text-fill: #2EA099; -fx-font-weight: 700; -fx-font-size: 17;" text="Počas testu Vám budú prehrávané rôzne zvuky." />
+      <Region prefHeight="15.0" prefWidth="600.0" />
+      <Label alignment="CENTER" prefHeight="33.0" prefWidth="600.0" style="-fx-text-fill: #2EA099; -fx-font-weight: 700; -fx-font-size: 17; -fx-text-alignment: center;" text="Keď nejaký z nich budete počuť, kliknite na tlačidlo s nápisom „počujem“." textAlignment="CENTER" />
+        <Region prefHeight="49.0" prefWidth="600.0" />
+        <Button fx:id="startTestButton" mnemonicParsing="false" onAction="#startTest" style="-fx-background-color: #2EA099; -fx-cursor: hand; -fx-border-width: 0; -fx-text-fill: #FEFDEE; -fx-font-size: 20;" text="Spustiť test" />
+    </children>
+</VBox>
